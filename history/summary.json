@@ -24,7 +24,7 @@
     "url": "https://develop.dttx948lk1tf.amplifyapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/develop.dttx948lk1tf.amplifyapp.com.ico",
     "slug": "raccons-devserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 107,
     "timeMonth": 91,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-27": 0
+    }
   },
   {
     "name": "IPv6 test",
